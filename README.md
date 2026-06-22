@@ -205,9 +205,7 @@ Short financial summary
 * Transformers
 * PyTorch
 * Scikit-Learn
-* FinBERT
-* BERT / RoBERTa / DeBERTa
-
+  
 ---
 
 # Objectives
@@ -223,18 +221,5 @@ Identify whether a financial statement is:
 
 Generate concise and accurate summaries of financial news articles.
 
----
-
-# Future Work
-
-* FinBERT Fine-Tuning
-* LoRA / PEFT Training
-* Financial RAG Integration
-* Multi-task Learning
-* Financial LLM Benchmarking
-
----
-
-## Author
 
 
